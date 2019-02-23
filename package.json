@@ -1,0 +1,16 @@
+{
+  "name": "webgl",
+  "description": "webgl final project",
+  "main": "main.js",
+  "scripts": {
+    "start": "budo main.js --open --live",
+    "test": "standard"
+  },
+  "dependencies": {
+    "gl-mat4": "^1.1.4"
+  },
+  "devDependencies": {
+    "budo": "^10.0.4",
+    "standard": "^10.0.2"
+  }
+}
